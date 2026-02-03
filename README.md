@@ -1,4 +1,4 @@
-A Python command-line quiz game.
+A command-line quiz game.
 
 ## Features
 - Object-oriented Question model
